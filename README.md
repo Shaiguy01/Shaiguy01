@@ -1,4 +1,6 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif)](https://rishavchanda.io)
+<div style="text-align: center;">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" width="1100">
+</div>
 <h1 align="center">Hi 👋, I'm Shahil Jagjivan or just 'Shai'</h1>
 <h3 align="center">Aspiring young developer from South Africa.</h3>
 <img align="right" alt="Coding" width="400" src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718">
