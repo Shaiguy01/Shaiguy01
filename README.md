@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Shahil Jagjivan or just 'Shai'</h1>
 <h3 align="center">Aspiring young developer from South Africa.</h3>
-<img align="right" alt="Coding" width="400" src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718">
 
 - 🔭 I’m currently working on: **Parish CRUD Web Application.**
 
@@ -15,7 +14,11 @@
 
 - 📄 Know me more @ [https://www.linkedin.com/in/shahil-jagjivan/](https://www.linkedin.com/in/shahil-jagjivan/)
 
-- ⚡ Fun fact **I still prefer pen an paper haha.**
+- ⚡ Fun fact **I still prefer pen an paper.**
+
+<div>
+  <img  alt="Coding" width="400" src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
