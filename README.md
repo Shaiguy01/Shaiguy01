@@ -14,7 +14,7 @@
 
 - 📄 Know me more @ [https://www.linkedin.com/in/shahil-jagjivan/](https://www.linkedin.com/in/shahil-jagjivan/)
 
-- ⚡ Fun fact **I still prefer pen an paper.**
+- ⚡ Fun fact **I'm a gacha gamer.**
 
 <div>
   <img  alt="Coding" width="400" src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718">
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahil (shai) jagjivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahil (shai) jagjivan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahil-jagjivan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahil (shai) jagjivan" height="30" width="40" /></a>
 <a href="https://instagram.com/shai_guy01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shai_guy01" height="30" width="40" /></a>
 </p>
 
