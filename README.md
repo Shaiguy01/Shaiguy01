@@ -33,4 +33,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiguy01&show_icons=true&locale=en&layout=compact" alt="shaiguy01" style="width: 285px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaiguy01&" alt="shaiguy01" style="width: 400px;">
 </div>
+<a>Please refresh the page if the above stats do not show</a>
 
